@@ -29,12 +29,6 @@ Tambien puedes copiar los archivos en tu directorio.
 
 # Compilar
 
-Windows
-```
-javac *.java
-```
-
-Linux/MacOs
 ```
 javac *.java
 ```
